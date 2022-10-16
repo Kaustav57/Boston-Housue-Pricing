@@ -1,0 +1,3 @@
+Hello I am Kaustav Mani Sarma 
+this is my first end to end ml project, its not my code, its a tutorial of Krish Naik(YouTube)
+my email - kaustavmani007@gmail.com
