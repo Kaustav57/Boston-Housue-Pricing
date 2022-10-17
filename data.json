@@ -1,0 +1,20 @@
+{
+	"data": {
+
+        "_comment1": "this is just a random data for testing purposes ( postman )",
+		"CRIM": 0.00632,
+		"ZN": 18.0,
+		"INDUS": 2.31,
+		"CHAS": 1.0,
+		"NOX": 0.538,
+		"RM": 5.575,
+		"AGE": 65.2,
+		"DIS": 3.0900,
+		"RAD": 1.0,
+		"TAX": 296,
+		"PTRATIO": 15.3,
+		"B": 300.90,
+		"LSTAT": 4.98
+	}
+}
+
